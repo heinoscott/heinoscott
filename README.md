@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Scott,</h1>
-- I'm currently learning **Golang, ISO-27001 and Neovim/lua)**
 
 - 💬 Ask me about **DataCenter, CheckMK, Linux**
 
