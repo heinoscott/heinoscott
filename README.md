@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 <br> I'm Scott,</h1>
 
-- 💬 Ask me about **DataCenter, CheckMK, Linux**
+- 💬 Ask me about **DataCenter, CheckMK, Linux and OpensSource**
 
 - 📫 Reach me via Bluesky or **heinoscott#2168 on Discord**
 
