@@ -2,7 +2,7 @@
 
 - 💬 Ask me about **DataCenter, CheckMK, Linux and OpenSource**
 
-- 📫 Reach me via Bluesky or **heinoscott_ on Discord**
+- 📫 Reach me via Bluesky or the socials in my profile
 
 
 <p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
